@@ -41,4 +41,7 @@ The **WAD Filesystem** project integrates a custom library for parsing and manag
   - Linux Terminal
   - A standard C++ compiler (e.g., g++).
 - Build Instructions:
+
+## wad,tar,gz
+Extract this file to get the above folders "wadfs" and "wad". Or just use the given folders.
   - Navigate to the libWad and wadfs directories and run make to compile library and FUSE Dameon.
